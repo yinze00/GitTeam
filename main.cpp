@@ -8,6 +8,6 @@ int main(){
     cout << "hello" << endl;
 
     cout << "worl23d" << endl;
-    int k = 120;
+    int k = 1;
     return 0;
 }
