@@ -12,4 +12,5 @@ int main(){
     return 0;
 
     string a = "new branch here";
+    string c = "quit()";
 }
