@@ -7,7 +7,7 @@ void func(int i){
 int main(){
     cout << "hello" << endl;
 
-    cout << "worl23d" << endl;
+    cout << "world" << endl;
     int k = 1;
     return 0;
 
