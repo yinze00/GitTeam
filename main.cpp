@@ -8,6 +8,6 @@ int main(){
     cout << "hello" << endl;
 
     cout << "world" << endl;
-
+    func(12);
     return 0;
 }
